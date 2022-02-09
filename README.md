@@ -1,4 +1,4 @@
-A C software for autonomous robot contorling.
+A software for autonomous robot contorling.
 This code include:
 * A script to track the position of the robot by measuring the distance that the robot moved from the encoder.
 * A scipt that controlles the speed of the motors.
