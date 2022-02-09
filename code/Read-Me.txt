@@ -1,4 +1,4 @@
 In the MDK-ARM you will find all the libraries used in the main Program:
 1/Motor Module: In this module, we have fuctions to set the PWN of the Motors and their direction.
 2/Robot_Navig_Euro20 Module: In this module , we have fuctions that helps us locate our robot and correct its orientation after every mouvement.
-3/ Odemetry Module: Since we are using encoders to calculate the distance that our robot has moved, we have set in this module fuctions to read from this encoder.
+3/Odemetry Module: Since we are using encoders to calculate the distance that our robot has moved, we have set in this module fuctions to read from the encoders.
